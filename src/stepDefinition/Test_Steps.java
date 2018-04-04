@@ -17,6 +17,8 @@ public class Test_Steps {
         //driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
         driver.get("http://www.facebook.com");
         System.out.println("Changes for GTIHUTB");
+        System.out.println("Changes in  GTIHUTB after new branch from another guy.");
+        
 	}
 
 	@When("^User Navigate to LogIn Page$")
