@@ -16,6 +16,7 @@ public class Test_Steps {
 		driver=new FirefoxDriver();
         //driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
         driver.get("http://www.facebook.com");
+        System.out.println("Changes for GTIHUTB");
 	}
 
 	@When("^User Navigate to LogIn Page$")
